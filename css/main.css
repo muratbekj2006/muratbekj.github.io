@@ -59,7 +59,7 @@ html{
     position: absolute;
     top:0;
     left:0;
-    background:url(/img/photo_5402322784350223834_w.jpg) no-repeat center center/cover;
+    background:url(img/photo_5402322784350223834_w.jpg) no-repeat center center/cover;
     height:700px;
     width:100%;
     z-index: -1;
